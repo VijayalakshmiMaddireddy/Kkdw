@@ -1,0 +1,3 @@
+Name: M.Vijayalakshmi
+Course: Bsc Computer Science
+One thing i learned about github: "How to create Repository and how to add files"
